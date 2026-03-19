@@ -25,7 +25,7 @@ function App() {
     fd.append("companyName", info.company);
 
     try {
-      const res = await axios.post("https://ai-cover-letter-maker-1.onrender.com", fd);
+      const res = await axios.post("https://ai-cover-letter-maker-1.onrender.com/generate", fd);
       setLetter(res.data.coverLetter);
     } catch (err) {
       alert("Backend Error: " + err.message);
