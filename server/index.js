@@ -6,7 +6,9 @@ const pdfParse = require("pdf-parse");
 const { GoogleGenerativeAI } = require("@google/generative-ai");
 
 const app = express();
-app.use(cors());
+app.use(cors({
+  origin:"https://ai-cover-letter-maker-ifwi.vercel.app/"
+}));
 app.use(express.json());
 
 const upload = multer({ storage: multer.memoryStorage() });
