@@ -144,7 +144,9 @@ function App() {
         Powered by Gemini 3 Flash & React
       </footer>
     </div>
+  
   );
+
 }
 
 const UploadIcon = ({ className }) => (
