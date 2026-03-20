@@ -40,4 +40,4 @@ A full-stack web application that generates tailored, professional cover letters
 -Live Link:[https://ai-cover-letter-maker-z3r1.vercel.app/]
 
 ## Screenshot
-![AI Cover Letter Maker]([client\src\assets\screenshot.png](https://github.com/Charumehra/AI_COVER_LETTER_MAKER/tree/9ada88615f89e41288375b9326e96064700a33cf/client/src/assets))
+![AI Cover Letter Maker](https://raw.githubusercontent.com/Charumehra/AI_COVER_LETTER_MAKER/93b2f104927f79b225a8e1eeb9e5f2bb6cb72189/client/src/assets/screenshot.png)
