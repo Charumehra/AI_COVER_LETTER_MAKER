@@ -34,8 +34,10 @@ A full-stack web application that generates tailored, professional cover letters
    GEMINI_API_KEY=your_api_key_here
    PORT=5000
 
-   
+
 ## Live Link
 
 -Live Link:[https://ai-cover-letter-maker-z3r1.vercel.app/]
 
+## Screenshot
+![AI Cover Letter Maker](client\src\assets\screenshot.png)
